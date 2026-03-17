@@ -1,0 +1,5 @@
+{
+  "name": "Apresentação Interativa UML",
+  "description": "Uma apresentação interativa sobre Diagrama de Implantação UML, usando React, Tailwind CSS e Framer Motion.",
+  "requestFramePermissions": []
+}
